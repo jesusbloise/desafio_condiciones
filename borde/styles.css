@@ -1,0 +1,9 @@
+ /* Estilo inicial para la imagen */
+ #miImagen {
+    cursor: pointer;
+}
+
+/* Estilo para la imagen con borde rojo */
+.borde-rojo {
+    border: 2px solid red;
+}
